@@ -25,6 +25,14 @@ PawMatch is a playful web application that aims to connect dogs of all breeds an
 
 ![Screenshot (52)](https://github.com/Anandini18/PawMatch/assets/88365547/5d3990f7-b47c-4374-b407-8d356058d3bb)
 
+![Screenshot (53)](https://github.com/Anandini18/PawMatch/assets/88365547/5600c79f-8e8b-41a1-baa9-f96785fa25ab)
+![Screenshot (54)](https://github.com/Anandini18/PawMatch/assets/88365547/6d0e1788-d2f5-49d7-8f29-a238cefe932d)
+
+![Screenshot (55)](https://github.com/Anandini18/PawMatch/assets/88365547/87b23f4f-2c38-432a-9fcf-81eaa12a2137)
+![Screenshot (56)](https://github.com/Anandini18/PawMatch/assets/88365547/e26206fb-d938-4e30-957a-6073f1051f5c)
+![Screenshot (57)](https://github.com/Anandini18/PawMatch/assets/88365547/63dd0365-dbee-4f3d-9d69-971b08a96203)
+
+![Screenshot (58)](https://github.com/Anandini18/PawMatch/assets/88365547/6d31d57e-2821-491b-ab01-3586bed574e0)
 
 ## Demo
 
